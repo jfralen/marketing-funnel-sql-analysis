@@ -6,6 +6,7 @@ This project analyzes marketing funnel performance and campaign effectiveness us
 The goal was to evaluate how users move through the funnel (view → click → add-to-cart → purchase) and identify which traffic sources and campaign strategies drive the highest conversion and revenue.
 
 Objectives
+
 Measure funnel conversion rates across key stages
 Compare performance across traffic sources
 Evaluate campaign effectiveness by channel and objective
