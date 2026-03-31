@@ -62,6 +62,7 @@ Average order value
 Refund rate
 
 Key Findings
+
 Email was the most efficient channel, with the highest purchase conversion rate (~19%). Organic drove the most traffic but had weak lower-funnel conversion (~5% purchase rate). Paid Search (Cross-sell) was the top revenue driver (~$858K). Affiliate campaigns delivered high-quality conversions, with relatively low refund rates. The largest drop-off occurs at the add-to-cart → purchase stage
 
 Tools Used
